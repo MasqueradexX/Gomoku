@@ -29,10 +29,3 @@ class board:
         self.position[pos] = self.turn
         self.turn *= -1
 
-        
-
-# x = board()
-# y = x.get_available_moves()
-
-# print(y)
-print(tuple(np.array([1,2])))
